@@ -1,4 +1,4 @@
 Proyecto contiene 2 archivos: Un Excel donde aplicamos diferentes métodos de predicción en base a datos descargados de la web de Medicaid, para analizar la variable de monto desembolsado en medicamentos. 
 El otro archivo es un programa en R donde probamos el algoritmo de Machine Learning SVR (Support Vector Regression) como alternativa a la regresión lineal.
 
-Los archivos adicionales son de una regresion lineal que me habia quedado pendiente de terminar para mostrar el efecto de la cuarentena en el precio de los medicamentos
+Los archivos adicionales son de una regresion lineal que me habia quedado pendiente de terminar para mostrar el efecto de la cuarentena en el precio de los medicamentos. En un principio quería hacer la gráfica mostrando que como había más proveedores el precio de los medicamentos era estable, pero al ver la data en el periodo de la pandemia vi que eso no importaba pues en vez de bajar los montos subieron a pesar de que las unidades de medicamento vendidas eran menos.
